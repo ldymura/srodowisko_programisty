@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <math.h>
-int main()
- {
+#include <math.h> // użyć funkcji floor
 
-int result = 3 * (2+2.0/5);
+int main() {
+  int result;
 
- printf("wynik %d\n",result);
-
+  result = 3 * (2 + 2.0 / 5);
+  printf("wynik: %d\n", result);
 }
