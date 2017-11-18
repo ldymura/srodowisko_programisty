@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-lalal
-lalala
-trololololo
+# Laboratorium C, 2017/18
+
+- [ ] Elementarz 1
+- [ ] Petle
+- [ ] Elementarz 2
+
+```c
 #include<stdio.h>
  
 int main()
@@ -18,10 +21,4 @@ int main()
  
    return 0;
 }
-=======
-# Laboratorium C, 2017/18
-
-- [ ] Elementarz 1
-- [ ] Petle
-- [ ] Elementarz 2
->>>>>>> 03a7cc764a7c7958bbb1378066ebceb74ceda3d0
+```
